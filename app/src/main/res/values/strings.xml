@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Zero Budget Browser</string>
+    <string name="url_hint">Search or enter address</string>
+    <string name="back">Back</string>
+    <string name="forward">Forward</string>
+    <string name="reload">Reload</string>
+    <string name="home">Home</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="bookmark_added">Bookmark saved locally</string>
+    <string name="bookmark_exists">Already bookmarked</string>
+    <string name="go">Go</string>
+    <string name="error_load">Could not load this page.</string>
+    <string name="error_offline">No network. Check your connection.</string>
+    <string name="retry">Retry</string>
+</resources>

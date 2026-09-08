@@ -1,0 +1,8 @@
+<resources>
+    <color name="toolbar_bg">#FAFAFA</color>
+    <color name="toolbar_fg">#1A1A1A</color>
+    <color name="accent">#1565C0</color>
+    <color name="error_bg">#FFF3E0</color>
+    <color name="error_fg">#E65100</color>
+    <color name="launcher_bg">#1565C0</color>
+</resources>
